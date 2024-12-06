@@ -10,7 +10,7 @@ SCREEN_WIDTH = 1000
 SCREEN_HEIGHT = 600
 
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-pygame.display.set_caption("Marvel heroes 2D battle game")
+pygame.display.set_caption("Marvel Heroes 2D Battle Game")
 
 #set framerate
 clock = pygame.time.Clock()
